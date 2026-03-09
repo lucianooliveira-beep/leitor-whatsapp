@@ -1,0 +1,22 @@
+{
+  "name": "Leitor de Mensagens WhatsApp",
+  "short_name": "LeitorWA",
+  "description": "Lê em voz alta mensagens copiadas do WhatsApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3a7.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3a7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
